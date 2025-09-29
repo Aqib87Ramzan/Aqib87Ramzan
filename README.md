@@ -9,7 +9,7 @@ I build ML / NLP models, dashboards, and full-stack solutions to solve real-worl
 
 | Category         | Tools / Technologies                           |
 |------------------|------------------------------------------------|
-| Programming      | Python, Java, JavaScript (Node.js / React)     |
+| Programming      | Python, Java, JavaScript, C, C++               |
 | Data & ML        | NumPy, Pandas, scikit-learn, TensorFlow, NLP   |
 | Visualization    | Matplotlib, Plotly, Power BI                   |
 | Databases & APIs | SQL, MySQL, REST APIs                          |
