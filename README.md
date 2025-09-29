@@ -33,7 +33,9 @@ I build ML / NLP models, dashboards, and full-stack solutions to solve real-worl
 ## 📫 Let’s Connect
 
 - **LinkedIn:** [Aqib Ramzan](https://www.linkedin.com/in/aqib-ramzan-63602b387/)  
-- **Email:** aqib459729@gmail.com  
+- **Email:** aqib459729@gmail.com
+- **Instagram:** https://www.instagram.com/aqib_ramz/
+- **Facebook:** https://www.facebook.com/aqib.ramzan.73
 
 ---
 
