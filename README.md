@@ -14,6 +14,7 @@ I build ML / NLP models, dashboards, and full-stack solutions to solve real-worl
 | Visualization    | Matplotlib, Plotly, Power BI                   |
 | Databases & APIs | SQL, MySQL, REST APIs                          |
 | Dev & Deployment | Git, GitHub, Docker, Vercel, Render            |
+| Full Stack       | MERN                                           |
 
 ---
 
