@@ -45,9 +45,10 @@ I build ML / NLP models, dashboards, and full-stack solutions to solve real-worl
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aqib87Ramzan&layout=compact&theme=tokyonight)
 
 
+----
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aqib87Ramzan&theme=tokyonight)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aqib87Ramzan&theme=tokyonight)](https://github-readme-streak-stats.vercel.app/?user=Aqib87Ramzan&theme=tokyonight)
 
 
 ---
