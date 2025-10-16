@@ -42,13 +42,7 @@ I build ML / NLP models, dashboards, and full-stack solutions to solve real-worl
 ## 📈 GitHub Stats
 
 <!-- You can use GitHub Readme Stats cards -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aqib87Ramzan&layout=compact&theme=tokyonight)
-
-
-----
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aqib87Ramzan&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aqib87Ramzan&theme=tokyonight)
 
 
 ---
