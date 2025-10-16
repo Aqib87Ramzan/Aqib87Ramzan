@@ -48,7 +48,7 @@ I build ML / NLP models, dashboards, and full-stack solutions to solve real-worl
 ----
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aqib87Ramzan&theme=tokyonight)](https://github-readme-streak-stats.vercel.app/?user=Aqib87Ramzan&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Aqib87Ramzan&theme=dark&hide_border=true)
 
 
 ---
